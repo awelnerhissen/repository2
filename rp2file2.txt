@@ -1,1 +1,2 @@
-Hi, this is file2 of repository2.
+Hi, this is file2 of repositor2.
+file 2 updated.
